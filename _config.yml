@@ -1,12 +1,12 @@
 # Site settings
 title: CHANJONG
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
-baseurl: ''
-profilepic: '/images/chan.jpg'
+url: 'https://allsser.github.io'
+baseurl: 'https://allsser.github.io/'
+profilepic: '/images/jong.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: '91805d646c.js'
 
 author:
   name: 'CHANJONG CHOI'

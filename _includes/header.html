@@ -30,7 +30,7 @@
                   <span class="label">Twitter</span>
                 </a>
               </li>
-            {% endif %} {% endcomment %}
+            {% endif %}
 
             {% if site.author.facebook_username %}
               <!-- Facebook -->
@@ -51,7 +51,7 @@
                   <span class="label">LinkedIn</span>
                 </a>
               </li>
-            {% endif %}
+            {% endif %} {% endcomment %}
 
             {% if site.author.github_username %}
               <!-- GitHub -->
@@ -64,7 +64,7 @@
               </li>
             {% endif %}
 
-            {% if site.author.meetup_name %}
+            {% comment %} {% if site.author.meetup_name %}
             <!-- Meetup -->
             <li class="navigation__item">
               <a href="https://www.meetup.com/{{ site.author.meetup_name }}" title="Meetup {{ site.author.meetup_name }}" target="_blank">
@@ -73,7 +73,7 @@
                 <span class="label">Meetup</span>
               </a>
             </li>
-            {% endif %}
+            {% endif %} {% endcomment %}
 
             {% if site.author.email %}
               <!-- Email -->

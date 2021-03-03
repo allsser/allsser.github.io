@@ -8,4 +8,4 @@ Uno 테마를 기반으로하는 Jekyll 테마로 프로젝트 목록이 타임 
 ![Screenshot](2.png)
 
 # 테마에 대한 설명
-[https://velog.io/@allsser/series/github.io](https://velog.io/@allsser/series/github.io)에서 획인 가능합니다.
+[https://velog.io/@allsser/series/github.io](https://velog.io/@allsser/series/github.io)에서 확인 가능합니다.
